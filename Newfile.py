@@ -13,4 +13,9 @@ def pyramid(n):
 def square(n):
     for i in range(n):
         print("* " * n)
-        
+
+
+# Driver code
+rows = 5
+print("Left Triangle:")
+left_triangle(rows)

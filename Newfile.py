@@ -27,3 +27,6 @@ right_triangle(rows)
 
 print("\nPyramid:")
 pyramid(rows)
+
+print("\nSquare:")
+square(rows)

@@ -19,3 +19,7 @@ def square(n):
 rows = 5
 print("Left Triangle:")
 left_triangle(rows)
+
+
+print("\nRight Triangle:")
+right_triangle(rows)

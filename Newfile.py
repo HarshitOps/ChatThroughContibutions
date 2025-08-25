@@ -23,3 +23,7 @@ left_triangle(rows)
 
 print("\nRight Triangle:")
 right_triangle(rows)
+
+
+print("\nPyramid:")
+pyramid(rows)

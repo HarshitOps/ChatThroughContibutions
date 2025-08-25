@@ -9,3 +9,8 @@ def right_triangle(n):
 def pyramid(n):
     for i in range(1, n + 1):
         print(" " * (n - i) + "* " * (2 * i - 1))
+
+def square(n):
+    for i in range(n):
+        print("* " * n)
+        

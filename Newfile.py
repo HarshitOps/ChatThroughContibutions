@@ -1,7 +1,7 @@
-import math
+import random
 
 print("hello world")
 #comment
 
-x = math.random()
+x = random.randint(3, 9)
 print("helloworld",x)

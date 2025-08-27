@@ -30,3 +30,8 @@ pyramid(rows)
 
 print("\nSquare:")
 square(rows)
+
+
+
+
+# Now this Works 
